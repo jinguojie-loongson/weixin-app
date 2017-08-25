@@ -17,3 +17,5 @@ done
 
 cp HOME/*  /etc/skel/桌面/
 cp HOME/*  /etc/skel/Desktop/
+
+exit 0
