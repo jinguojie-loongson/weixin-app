@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Weixin Application Community
+Comment[zh_CN]=微信网页版
+Exec=/opt/app/find-chrome.sh -app=https://wx.qq.com
+Name=Application Community
+Name[zh_CN]=微信网页版
+Type=Application
+Icon=/opt/weixin/weixin.png
+
